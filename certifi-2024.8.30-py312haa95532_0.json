@@ -1,0 +1,49 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\certifi-2024.8.30-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/certifi-2024.8.30.dist-info/INSTALLER",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/LICENSE",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/METADATA",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/RECORD",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/REQUESTED",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/WHEEL",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/direct_url.json",
+    "Lib/site-packages/certifi-2024.8.30.dist-info/top_level.txt",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-312.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py",
+    "Lib/site-packages/certifi/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "certifi-2024.8.30-py312haa95532_0.conda",
+  "license": "MPL-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\certifi-2024.8.30-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "46d3270437bbd000f59be32b1a0ccdce",
+  "name": "certifi",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\certifi-2024.8.30-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::certifi==2024.8.30=py312haa95532_0[md5=46d3270437bbd000f59be32b1a0ccdce]",
+  "sha256": "2ed9ec29459a8fd6d009091bb09874802cdbe8d58319c648261ec0b126314fd7",
+  "size": 168227,
+  "subdir": "win-64",
+  "timestamp": 1725551819000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2024.8.30-py312haa95532_0.conda",
+  "version": "2024.8.30"
+}
