@@ -1,0 +1,79 @@
+{
+  "build": "h2f4ed9d_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib-ng >=2.0.7,<2.1.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\c-blosc2-2.12.0-h2f4ed9d_0",
+  "files": [
+    "Library/bin/libblosc2.dll",
+    "Library/cmake/Blosc2Config.cmake",
+    "Library/cmake/Blosc2ConfigVersion.cmake",
+    "Library/cmake/Blosc2Targets-release.cmake",
+    "Library/cmake/Blosc2Targets.cmake",
+    "Library/cmake/Modules/FindIPP.cmake",
+    "Library/cmake/Modules/FindLZ4.cmake",
+    "Library/cmake/Modules/FindSIMD.cmake",
+    "Library/cmake/Modules/FindZLIB_NG.cmake",
+    "Library/cmake/Modules/FindZSTD.cmake",
+    "Library/cmake/Modules/toolchain-aarch64.cmake",
+    "Library/cmake/Modules/toolchain-armhf.cmake",
+    "Library/cmake/Modules/toolchain-armsf.cmake",
+    "Library/include/b2nd.h",
+    "Library/include/blosc2.h",
+    "Library/include/blosc2/blosc2-common.h",
+    "Library/include/blosc2/blosc2-export.h",
+    "Library/include/blosc2/blosc2-stdio.h",
+    "Library/include/blosc2/codecs-registry.h",
+    "Library/include/blosc2/filters-registry.h",
+    "Library/include/blosc2/tuners-registry.h",
+    "Library/lib/blosc2.lib",
+    "Library/lib/pkgconfig/blosc2.pc",
+    ".nonadmin"
+  ],
+  "fn": "c-blosc2-2.12.0-h2f4ed9d_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\c-blosc2-2.12.0-h2f4ed9d_0",
+    "type": 1
+  },
+  "md5": "0ef11bf46e349a8ea96e545bfa6532af",
+  "name": "c-blosc2",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\c-blosc2-2.12.0-h2f4ed9d_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/cmake/Blosc2Targets.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_94unlns7lh/croot/c-blosc2_1705431378030/_h_env",
+        "sha256": "68aed52094f59fc93d2cb44e48b20c4ba9170b99e74ad644e1c3889578773945",
+        "sha256_in_prefix": "95e6be08083ffb797de761bfa6392572f28fbe007c5fed46d4a6b1de549d6ba3",
+        "size_in_bytes": 4638
+      },
+      {
+        "_path": "Library/lib/pkgconfig/blosc2.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_94unlns7lh/croot/c-blosc2_1705431378030/_h_env",
+        "sha256": "2a8252902d5adb55fce423f068b00028a89103bc9bb410c3828685075ad52446",
+        "sha256_in_prefix": "9f477c2a9d0a54bbf2f49f16726b4af1fbe6f7ecec51d550e7dd3d71e0407346",
+        "size_in_bytes": 387
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::c-blosc2==2.12.0=h2f4ed9d_0[md5=0ef11bf46e349a8ea96e545bfa6532af]",
+  "sha256": "67968dd942dbf4c1f2509c6fc30499d7b99cc106a9f7f5cbe50eea42e352d237",
+  "size": 227573,
+  "subdir": "win-64",
+  "timestamp": 1705432739000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/c-blosc2-2.12.0-h2f4ed9d_0.conda",
+  "version": "2.12.0"
+}
